@@ -1,0 +1,14 @@
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\bin\Debug\net8.0\Лаба 8.exe
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\bin\Debug\net8.0\Лаба 8.deps.json
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\bin\Debug\net8.0\Лаба 8.runtimeconfig.json
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\bin\Debug\net8.0\Лаба 8.dll
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\bin\Debug\net8.0\Лаба 8.pdb
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\obj\Debug\net8.0\Лаба 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\obj\Debug\net8.0\Лаба 8.AssemblyInfoInputs.cache
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\obj\Debug\net8.0\Лаба 8.AssemblyInfo.cs
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\obj\Debug\net8.0\Лаба 8.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\obj\Debug\net8.0\Лаба 8.dll
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\obj\Debug\net8.0\refint\Лаба 8.dll
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\obj\Debug\net8.0\Лаба 8.pdb
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\obj\Debug\net8.0\Лаба 8.genruntimeconfig.cache
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Лаба 8\obj\Debug\net8.0\ref\Лаба 8.dll
