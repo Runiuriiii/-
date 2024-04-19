@@ -1,0 +1,14 @@
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\bin\Debug\net8.0\ПОМОГИ БОГ.exe
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\bin\Debug\net8.0\ПОМОГИ БОГ.deps.json
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\bin\Debug\net8.0\ПОМОГИ БОГ.runtimeconfig.json
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\bin\Debug\net8.0\ПОМОГИ БОГ.dll
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\bin\Debug\net8.0\ПОМОГИ БОГ.pdb
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\obj\Debug\net8.0\ПОМОГИ БОГ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\obj\Debug\net8.0\ПОМОГИ БОГ.AssemblyInfoInputs.cache
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\obj\Debug\net8.0\ПОМОГИ БОГ.AssemblyInfo.cs
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\obj\Debug\net8.0\ПОМОГИ БОГ.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\obj\Debug\net8.0\ПОМОГИ БОГ.dll
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\obj\Debug\net8.0\refint\ПОМОГИ БОГ.dll
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\obj\Debug\net8.0\ПОМОГИ БОГ.pdb
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\obj\Debug\net8.0\ПОМОГИ БОГ.genruntimeconfig.cache
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\ПОМОГИ БОГ\obj\Debug\net8.0\ref\ПОМОГИ БОГ.dll

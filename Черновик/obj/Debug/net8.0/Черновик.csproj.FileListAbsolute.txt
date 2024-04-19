@@ -1,0 +1,14 @@
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\obj\Debug\net8.0\Черновик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\obj\Debug\net8.0\Черновик.AssemblyInfoInputs.cache
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\obj\Debug\net8.0\Черновик.AssemblyInfo.cs
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\obj\Debug\net8.0\Черновик.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\bin\Debug\net8.0\Черновик.exe
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\bin\Debug\net8.0\Черновик.deps.json
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\bin\Debug\net8.0\Черновик.runtimeconfig.json
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\bin\Debug\net8.0\Черновик.dll
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\bin\Debug\net8.0\Черновик.pdb
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\obj\Debug\net8.0\Черновик.dll
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\obj\Debug\net8.0\refint\Черновик.dll
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\obj\Debug\net8.0\Черновик.pdb
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\obj\Debug\net8.0\Черновик.genruntimeconfig.cache
+C:\Users\kiril\Desktop\ЛР\ОП - лабы\Черновик\obj\Debug\net8.0\ref\Черновик.dll
